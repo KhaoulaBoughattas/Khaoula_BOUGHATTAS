@@ -46,6 +46,7 @@
 
 ---
 
+
 ## 🧠 Skills & Technologies
 
 ### 📌 Languages & Tools
@@ -62,6 +63,19 @@
 
 ### 🤝 Soft Skills
 `Teamwork`, `Autonomy`, `Problem-Solving`, `Time Management`, `Communication`
+### 🛠 Skills & Tools Badges
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-008080?style=for-the-badge)
+![Big Data](https://img.shields.io/badge/Big_Data-4B0082?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/Web_Development-0D6EFD?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ---
 
