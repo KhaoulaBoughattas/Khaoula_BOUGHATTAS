@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Engineer | 💡 AI|ML|DL & Big Data Enthusiast | 📊 Power BI Architect | 🎓 Data Engineer Student @ ENET'COM</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khaoulaboughattas/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/khaoula-boughattas-983597295/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:boughattaskhawla@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/-Tunisia-E30B17?style=flat&logo=google-maps&logoColor=white" />
 </p>
@@ -147,7 +147,7 @@
 ## 📬 Contact Me
 
 - 📧 **boughattaskhawla@gmail.com**
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/khaoulaboughattas/)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/khaoula-boughattas-983597295/)
 - 🌍 **Available Worldwide | Fluent in 🇫🇷 🇬🇧 🇹🇳**
 
 ---
