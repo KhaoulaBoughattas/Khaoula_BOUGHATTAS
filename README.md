@@ -152,5 +152,6 @@
 
 ---
 
-> _“I don’t just build solutions. I build intelligent systems that solve real problems.”_  
+> “Turning data into insight, and insight into innovation — that’s the engineering I stand for.”  
 > — *Khaoula Boughattas*
+
